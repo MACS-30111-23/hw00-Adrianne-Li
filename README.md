@@ -19,7 +19,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 ![Alt text](Mypainting.jpg)
 
 ## I have completed my undergraduate studies at the University of International Business and Economics, and during the time of my undergraduate stage I have developed a rather strong interest in the field of macroeconomics as well as econometrics.
-:thumbsup:
+
 
 
 # List as an example
@@ -37,6 +37,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 
 [The lady tasting tea](https://rkbookreviews.wordpress.com/2009/01/19/the-lady-tasting-tea-visual-summary/)
 ## One of my favourite books, which has enlightened me a lot in terms of how statistics can change the world and how people working in this field developed the sequence of most significant theories we are familiar with today.
+:thumbsup:
 
 
 # Summary
