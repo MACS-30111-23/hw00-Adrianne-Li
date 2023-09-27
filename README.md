@@ -18,7 +18,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 ## In addition, this is one of my paintings:
 ![Alt text](Mypainting.jpg)
 
-## I have completed my undergraduate studies at the University of International Business and Economics, and during the time of my undergraduate stage I have developed a rather strong interest in the field of macroeconomics as well as econometrics. +1
+## I have completed my undergraduate studies at the University of International Business and Economics, and during the time of my undergraduate stage I have developed a rather strong interest in the field of macroeconomics as well as econometrics. :thumbsup:
 
 
 # List as an example
