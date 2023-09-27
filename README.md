@@ -35,9 +35,9 @@ Edit this README file to include a brief biography of yourself. Your README shou
 [Starry night](https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg)
 ## My favourite painting
 
-[The lady tasting tea](https://rkbookreviews.wordpress.com/2009/01/19/the-lady-tasting-tea-visual-summary/)
+[The lady tasting tea](https://rkbookreviews.wordpress.com/2009/01/19/the-lady-tasting-tea-visual-summary/) :thumbsup:
 ## One of my favourite books, which has enlightened me a lot in terms of how statistics can change the world and how people working in this field developed the sequence of most significant theories we are familiar with today.
-:thumbsup:
+
 
 
 # Summary
