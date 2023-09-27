@@ -17,8 +17,17 @@ Edit this README file to include a brief biography of yourself. Your README shou
 ![Alt text](Honey.jpg)
 
 
+# List as an example
+
+## My favourite paintings
+* Starry night
+* San Giorgio Maggiore at dusk
+* Branches with almond blossom
 
 
+# links as examples
+
+[Starry night](https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg)
 
 
 
@@ -37,3 +46,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+[def]: https://www.creative-tim.com/
+[def2]: https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg
