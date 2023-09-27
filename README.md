@@ -13,8 +13,12 @@ Edit this README file to include a brief biography of yourself. Your README shou
 # Brief Introduction
 
 ## My name is Zhuyin(Adrianne)  Li, a macss-econ student. I have a lot of hobbies, including hiking, biking, cooking as well as painting. I am also very keen on animals, especially dogs. Below is the picture of my own puppy, her name is **_Honey_**.
-
 ![Alt text](Honey.jpg)
+
+## In addition, this is one of my paintings:
+![Alt text](Mypainting.jpg)
+
+## I have compeleted my undergraduate studies at the University of International Business and Economics, and during the time of my undergraduate stage I have developed a rather strong interest in the field of macroeconomics as well as econometrics. 
 
 
 # List as an example
@@ -28,12 +32,17 @@ Edit this README file to include a brief biography of yourself. Your README shou
 # links as examples
 
 [Starry night](https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg)
+## My favourite painting
+
+[The lady tasting tea](https://rkbookreviews.wordpress.com/2009/01/19/the-lady-tasting-tea-visual-summary/)
+## One of my favourite books, which has enlightened me a lot in terms of how statistics can change the world and how people working in this field developed the sequence of most significant theories we are familiar with today.
 
 
+# Summary
 
-
-
-
+## It is a rather interesting experience to learn about markdown. Altough I have written some README files in my undergraduate stage, most of them are set in the format of text or word since I did not have a frequent interaction with github. However, I do have realized that README file is of great importance for the usage of code, not only for the purpose of giving others instrucion, but also as a critical record of the aurthor's own coding process.
+## For today's homework, I have learnt something new operations of writing markdown files, including inserting pictures, adding links and adopting different symbols while constructing a README.md file.
+## Besides, after writing this md file by my own, it suddenly occurred to me that various studying materials I have used before were created as a README.md file (For instance, the syllabus of MACSS math camp: [MACSS math camp](https://github.com/jmclip/MACSS_math_camp)) and the markdown file can be really helpful.
 
 
 
@@ -47,6 +56,3 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-
-[def]: https://www.creative-tim.com/
-[def2]: https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg
