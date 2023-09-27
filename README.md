@@ -12,13 +12,13 @@ Edit this README file to include a brief biography of yourself. Your README shou
 
 # Brief Introduction
 
-* ## My name is Zhuyin(Adrianne)  Li, a macss-econ student. I have a lot of hobbies, including hiking, biking, cooking as well as painting. I am also very keen on animals, especially dogs. Below is the picture of my own puppy, her name is **_Honey_**.
+* My name is Zhuyin(Adrianne)  Li, a macss-econ student. I have a lot of hobbies, including hiking, biking, cooking as well as painting. I am also very keen on animals, especially dogs. Below is the picture of my own puppy, her name is **_Honey_**.
 ![Alt text](Honey.jpg)
 
-* ## In addition, this is one of my paintings:
+* In addition, this is one of my paintings:
 ![Alt text](Mypainting.jpg)
 
-* ## I have completed my undergraduate studies at the University of International Business and Economics, and during the time of my undergraduate stage I have developed a rather strong interest in the field of macroeconomics as well as econometrics.
+* I have completed my undergraduate studies at the University of International Business and Economics, and during the time of my undergraduate stage I have developed a rather strong interest in the field of macroeconomics as well as econometrics.
 
 
 
@@ -42,9 +42,9 @@ Edit this README file to include a brief biography of yourself. Your README shou
 
 # Summary
 
-* ## It is a rather interesting experience to learn about markdown. Altough I have written some README files in my undergraduate stage, most of them are set in the format of text or word since I did not have a frequent interaction with github. However, I do realized that README file is of great importance for the usage of code, not only for the purpose of giving others instrucion, but also as a critical record of the aurthor's own coding process.
-* ## For today's homework, I have learnt something new operations of writing markdown files, including inserting pictures, adding links and adopting different symbols while constructing a README.md file.
-* ## Besides, after writing this md file by my own, it suddenly occurred to me that various studying materials I have used before were created as a README.md file (For instance, the syllabus of MACSS math camp: [MACSS math camp](https://github.com/jmclip/MACSS_math_camp)) and the markdown file can be really helpful.
+* It is a rather interesting experience to learn about markdown. Altough I have written some README files in my undergraduate stage, most of them are set in the format of text or word since I did not have a frequent interaction with github. However, I do realized that README file is of great importance for the usage of code, not only for the purpose of giving others instrucion, but also as a critical record of the aurthor's own coding process.
+* For today's homework, I have learnt something new operations of writing markdown files, including inserting pictures, adding links and adopting different symbols while constructing a README.md file.
+* Besides, after writing this md file by my own, it suddenly occurred to me that various studying materials I have used before were created as a README.md file (For instance, the syllabus of MACSS math camp: [MACSS math camp](https://github.com/jmclip/MACSS_math_camp)) and the markdown file can be really helpful.
 
 
 
